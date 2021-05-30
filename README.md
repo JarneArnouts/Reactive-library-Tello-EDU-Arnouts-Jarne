@@ -42,7 +42,7 @@ f.Finally Copy the libh264decoder from the Tello-Python package to the .\Python2
    win64: .\Tello-Python\Tello_Video\h264decoder\Windows\x64\libh264decoder.pyd
    win32: .\Tello-Python\Tello_Video\h264decoder\Windows\x86\libh264decoder.pyd
    
- A zip file containting all the necessary files has also been included to make the manual process easier, this is also only for windows. 
+ For any problems with the installation of these files, please once again refer to the documentaion of the original SDk. Detailed explanations are available there. 
    
 To start the application, run the BasicApplication class in the BasicApplication.py file in the main directory. Before running, please make sure to give the ip adress of your device as the "local_ip" parameter to the drone, as well as giving a portnumber as "local_port". This way the connection to the drone can be made. 
   
