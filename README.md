@@ -6,7 +6,7 @@ the implementation uses fragments of the SDK realeased by the original manufactu
 For any questions relation to operating the drone that are not answered here, please refer to the documention of the original SKD.
 
 # Installation
-For installation of the necessary dependencies, please use the install.bat file that correspnds to your system. If these do not work please refer to the manual installation that follows, taken from the documentation of the original SDK. This is for windows only:
+For installation of the necessary dependencies, please use the install.bat file that correspnds to your system. If these do not work please refer to the manual installation that follows, taken from the documentation of the original SDK. This is for windows only. For other operationg systems the documentaiton is limited to install scripts, these are however meant for python 2.7. so be advised that this can lead to problems:
 
 a: install a python version, this SDk was originally made in Python 2.7 but was adapted to 3.8, please use 3.8 or higher. For all steps using the
 
