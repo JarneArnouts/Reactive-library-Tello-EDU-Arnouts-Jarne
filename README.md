@@ -2,7 +2,7 @@
 
 This repository contains a reactive library for controlling a DJI Tello EDU drone written in python and using RxPY. It further contains an application implementing the functionality of this library as an example of t's usage created in Tkinter. the implementation uses fragments of an official SDK realeased by the original manufacturer: Ryzen robotics, this SDK can be found here: https://github.com/dji-sdk/Tello-Python. For any questions relation to operating the drone that are not answered here, please refer to the documention of the original SKD.
 
-#Installation
+# Installation
 There are a rather large amount of dependencies that must be installed before being able to use the complete functionality of the library. The original SDK uses installation scripts to install these dependencies. These have again been included in this repositroy but since these were for Python 2.7 and this project uses Python 3.8, the scripts might not work properly. Below, a series of instructions for windows 10 are placed. There is no such thing for OSx and Linux, as this library was written without acces to either of these available. 
 
 a.Install a python version of 3.8 or higher. A virtual python environment can also be used. 
